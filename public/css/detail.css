@@ -1,0 +1,23 @@
+.detail-page__img{
+    width: 320px;
+}
+
+.detail-page__box{
+    display: flex;
+    width: 140px;
+    height: 52px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.detail-page__color{
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    transition: width 0.4s ease-out, height 0.4s ease-out;
+}
+
+.detail-page__color:hover{
+    width: 48px;
+    height: 48px;
+}
