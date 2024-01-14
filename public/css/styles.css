@@ -263,9 +263,10 @@ body.dark-theme {
   align-items: center;
   column-gap: 1rem;
 }
-
+.nav__user,
 .nav__toggle, 
-.nav__shop {
+.nav__shop
+{
   font-size: 1.25rem;
   cursor: pointer;
 }
